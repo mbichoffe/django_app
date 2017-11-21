@@ -4,6 +4,12 @@ li a {
   line-height: 1.1;
   color: green;
 }
+h1 {
+  font-family: 'Anton';
+  font-size: 100;
+  line-height: 1.1;
+  color: green;
+}
 
 body {
   background-color: #fff;
