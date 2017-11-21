@@ -1,0 +1,10 @@
+li a {
+  font-family: 'Arimo';
+  font-weight: 500;
+  line-height: 1.1;
+  color: green;
+}
+
+body {
+  background-color: #fff;
+}
